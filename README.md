@@ -27,10 +27,10 @@
 </p>
 
 ### ✨ Featured projects
-- 🚀 **Sync2You (WebRTC + BlueLink)** — Real-time A/V streaming; toggleable Bluetooth mode for 4–6 users. [[Repo]](https://github.com/Ananaey/Sync2You)
+- 🚀 **Sync2You (WebRTC + BlueLink)** — Real-time A/V streaming; toggleable Bluetooth mode for 4–6 users. [[Repo]](https://github.com/Ananaey/SyncTab)
 - 🌱 **Tomato Disease Classifier** — TensorFlow model + Flask/Streamlit UI; fast image diagnosis. [[Repo]](https://github.com/Ananaey/Tomato-Disease-Prediction)
-- 📈 **Stock Recommendation System** — Scrapes 4+ brokers; 100+ daily recos; cuts research time. [[Repo]](https://github.com/Ananaey/Stock-Recommendation-System)
-- 💬 **Amazon Review Sentiment (RoBERTa)** — 500+ reviews; dashboards + summaries. [[Repo]](https://github.com/Ananaey/Amazon-Review-Sentiment)
+- 📈 **Stock Recommendation System** — Scrapes 4+ brokers; 100+ daily recos; cuts research time. [[Repo]](https://github.com/Ananaey/Stock-Investment-Recommendation-Scrapper)
+- 💬 **Amazon Review Sentiment (RoBERTa)** — 500+ reviews; dashboards + summaries. [[Repo]](https://github.com/Ananaey/Sentiment-Analyser)
 
 ### 📝 Latest posts
 <!-- BLOG-POST-LIST:START -->
