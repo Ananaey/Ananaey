@@ -32,13 +32,10 @@
 - 📈 **Stock Recommendation System** — Scrapes 4+ brokers; 100+ daily recos; cuts research time. [[Repo]](https://github.com/Ananaey/Stock-Investment-Recommendation-Scrapper)
 - 💬 **Amazon Review Sentiment (RoBERTa)** — 500+ reviews; dashboards + summaries. [[Repo]](https://github.com/Ananaey/Sentiment-Analyser)
 
-### 🏆 Trophies
+### 🏆 Achievements
 <p align="center">
-  <img 
-    src="github-profile-trophy-cjvpqd60b-ananaeys-projects.vercel.app/?username=Ananaey&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" 
-    alt="GitHub Profile Trophies" />
+  <img src="./assets/achievements.svg" alt="GitHub Achievements" />
 </p>
-
 
 <!-- Contribution snake (populated by Action below) -->
 ### 🐍 Contribution Snake
