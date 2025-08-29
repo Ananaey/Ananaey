@@ -34,7 +34,7 @@
 
 ### 🔗 Connect
 <p align="center">
-  <a href="https://ananaey.github.io" target="_blank" rel="noopener noreferrer">▶ View my live LinkedIn badge</a>
+  <a href="https://www.linkedin.com/in/ananaeygarg/" target="_blank" rel="noopener noreferrer">▶ View my live LinkedIn badge</a>
 </p>
 
 <!-- Contribution snake (populated by Action below) -->
