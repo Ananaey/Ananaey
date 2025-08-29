@@ -37,12 +37,24 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏆 Trophies
+### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ananaey&theme=flat&no-frame=true&row=1&column=7" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Ananaey&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" 
+    alt="GitHub Profile Trophies" />
 </p>
 
+
 <!-- Contribution snake (populated by Action below) -->
-![snake gif](https://raw.githubusercontent.com/Ananaey/Ananaey/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ananaey/Ananaey/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ananaey/Ananaey/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ananaey/Ananaey/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer)
